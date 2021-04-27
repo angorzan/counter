@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Counter</string>
+    <string name="counter">0</string>
+    <string name="button_inc">Zwiększ</string>
+    <string name="button_dec">Zmniejsz</string>
+    <string name="button_zero">Wyzeruj</string>
+    <string name="setNewValue">Ustaw</string>
+</resources>
